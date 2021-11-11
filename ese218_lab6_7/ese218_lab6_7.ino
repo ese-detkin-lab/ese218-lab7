@@ -5,7 +5,7 @@
 
 #include <Wire.h>
 #include <SPI.h>
-#include <Adafruit_Sensor.h>
+#include "Adafruit_Sensor/Adafruit_Sensor.h"
 #include "Adafruit_BMP3XX.h"
 
 // If using SPI, replace the pin numbers appropriately
