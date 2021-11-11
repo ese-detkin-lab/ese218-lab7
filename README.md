@@ -17,7 +17,7 @@ I2C used to read in data.
 1. Download or clone the github repo to your computer.
 2. Follow [these instructions](https://docs.google.com/document/d/10YX97TspXGyPbyejvhkQ6DBXMTv6j4jiCOdM5Ycglfs/edit) to get Blynk setup. Replace the skeleton code with the code in this repo. If you already have BLYNK setup, create a new template on the web dashboard and add the NodeMCU as a new device. **MAKE SURE THAT YOU REPLACE LINES 21, 22, 23 WITH YOUR TEMPLATE INFORMATION** 
 3. In the Arduino IDE, install the following libraries:
-    - Adafruit Unified Sensor
+    - Adafruit_BMP085_Unified
     - Adafruit BMP3xx 
 4. Flash the code in this repo onto the NodeMCU. You can do this by opening up ese_lab6_7.ino in the ese218_lab6_7 folder.
 5. 6 Datastreams will need to be created.
