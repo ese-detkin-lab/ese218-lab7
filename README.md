@@ -15,7 +15,7 @@ I2C used to read in data.
  
 ## Setup Instructions
 1. Download or clone the github repo to your computer.
-2. Follow [these instructions](https://docs.google.com/document/d/10YX97TspXGyPbyejvhkQ6DBXMTv6j4jiCOdM5Ycglfs/edit) to get Blynk setup. Replace the skeleton code with the code in this repo. If you already have BLYNK setup, create a new template on the web dashboard. **MAKE SURE THAT YOU REPLACE LINES 21, 22, 23 WITH YOUR TEMPLATE INFORMATION** 
+2. Follow [these instructions](https://docs.google.com/document/d/10YX97TspXGyPbyejvhkQ6DBXMTv6j4jiCOdM5Ycglfs/edit) to get Blynk setup. Replace the skeleton code with the code in this repo. If you already have BLYNK setup, create a new template on the web dashboard and add the NodeMCU as a new device. **MAKE SURE THAT YOU REPLACE LINES 21, 22, 23 WITH YOUR TEMPLATE INFORMATION** 
 3. Flash the code in this repo onto the NodeMCU. You can do this by opening up ese_lab6_7.ino in the ese218_lab6_7 folder.
 4. 6 Datastreams will need to be created.
   ![image](https://user-images.githubusercontent.com/13370293/141309947-42253f87-ee3b-43ba-bb3f-e73c3878c798.png)
