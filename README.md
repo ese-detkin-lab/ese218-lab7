@@ -46,3 +46,5 @@ I2C used to read in data.
         - OFF label is "Reset"
      ![IMG_C1468CF87758-1](https://user-images.githubusercontent.com/13370293/141312667-2ab3030f-7c16-48b0-9c44-8a35586f2756.jpeg)
 8. Press start on the mobile app to start the timer.
+
+Written by Kim Luong.
