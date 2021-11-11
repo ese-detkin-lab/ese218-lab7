@@ -31,6 +31,8 @@ I2C used to read in data.
   ![image](https://user-images.githubusercontent.com/13370293/141311223-81f55f72-dbc3-41c0-a2a9-d1feed8fe014.png)
 7. On the mobile dashboard/app, create the following widgets. Assign the datastreams accordingly.
     - 1 x SuperChart (Datastream V0)
+      To configure the SuperChart, after dragging it to your template. Double tap on it to modify the settings. Click on the circled button in the image below to select Datastream V0.
+      ![IMG_AED375BEBFC3-1](https://user-images.githubusercontent.com/13370293/141351956-4db96baa-94cc-45ed-99bb-2f171682482c.jpeg)
     - 1 x Gauge (Datastream V1)
     - 3 x Label Value (Datastreams V0, V2, V3)
     - 2 x Button (Datastreams V4, V5)
