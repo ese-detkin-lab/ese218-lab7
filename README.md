@@ -14,7 +14,7 @@ I2C used to read in data.
 |  SDI   |  D2    |
  
 ## Setup Instructions
-1. Follow [these instructions](https://docs.google.com/document/d/10YX97TspXGyPbyejvhkQ6DBXMTv6j4jiCOdM5Ycglfs/edit) to get Blynk setup.
+1. Follow [these instructions](https://docs.google.com/document/d/10YX97TspXGyPbyejvhkQ6DBXMTv6j4jiCOdM5Ycglfs/edit) to get Blynk setup. Replace the skeleton code with the code in this repo. **MAKE SURE THAT YOU REPLACE LINES 21, 22, 23 WITH YOUR TEMPLATE INFORMATION**
 2. Flash the code in this repo onto the NodeMCU.
 3. 6 Datastreams will need to be created.
   ![image](https://user-images.githubusercontent.com/13370293/141309947-42253f87-ee3b-43ba-bb3f-e73c3878c798.png)
