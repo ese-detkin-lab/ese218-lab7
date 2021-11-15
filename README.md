@@ -1,5 +1,5 @@
 # ESE218 MEMS Pressure Sensor Lab (BLYNK)
-Author: Kim Luong
+Author: Kim Lương
 
 ## Parts Required
 - 1 x NodeMCU 8266
